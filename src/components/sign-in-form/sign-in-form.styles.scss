@@ -1,13 +1,13 @@
-.sign-in {
-  width: 430px;
+.sign-up-container {
   display: flex;
   flex-direction: column;
+  width: 380px;
 
-  .title {
+  h2 {
     margin: 10px 0;
   }
 
-  .buttons {
+  .buttons-container {
     display: flex;
     justify-content: space-between;
   }
